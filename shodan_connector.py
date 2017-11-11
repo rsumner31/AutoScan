@@ -16,7 +16,6 @@ SHODAN_API_KEY = 'Placeholder'
 # Load the helper class to print out help text.
 _help = loadstrings.loadstrings()
 
-
 class Shodan(object):
     def shodan_start(self):
         if SHODAN_API_KEY is not None and 'Placeholder' not in SHODAN_API_KEY:

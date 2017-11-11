@@ -24,7 +24,10 @@
       "Could not obtain your IP address, check if you have Internet connectivity to https://api.ipify.org ."
     ],
     "NoShodan": [
-      "Could not connect to Shodan, check if you have internet connectivity and a Shodan API Key."
+      "Could not connect to Shodan, check if you have internet connectivity and a API Key."
+    ],
+    "NoVirusTotal": [
+      "Could not connect to VirusTotal, check if you have internet connectivity and a API Key."
     ]
   }
 }

@@ -10,7 +10,14 @@ from requests import get
 
 
 class ipify(object):
-    def ipify_resolver(self):
-        ip = get('https://api.ipify.org').text
-        if ip is not None:
-            return ip
+    def ipify_resolver(self, ip=None):
+        conn = get('https://api.ipify.org')
+        if conn.status_code == 200:
+            _ip = conn.text
+            if ip is None:
+                return _ip
+            elif ip is not None:
+                _ip = ip
+                return _ip
+        else:
+            return False
