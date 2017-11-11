@@ -1,0 +1,33 @@
+{
+  "en": {
+    "Modules": [
+      "This script requires the following modules",
+      "- importlib",
+      "- sys",
+      "- pip",
+      "- requests",
+      "- shodan",
+      " This script will attempt to install requests and shodan"
+    ],
+    "Python": [
+      "This script was tested on and requires in Python 3.x.",
+      "Please upgrade to Python 3.x, see https://pythonclock.org/ for more information."
+    ],
+    "Shodan": [
+      "Missing Shodan API key, please visit shodan.io for more information.",
+      "Once you have an API key please place it in the SHODAN_API_KEY variable at the top of this script."
+    ],
+    "NoDetection": [
+      "No information available for your IP! It looks clear."
+    ],
+    "NoIP": [
+      "Could not obtain your IP address, check if you have Internet connectivity to https://api.ipify.org ."
+    ],
+    "NoShodan": [
+      "Could not connect to Shodan, check if you have internet connectivity and a Shodan API Key."
+    ]
+  },
+  "api": {
+    "SHODAN_API_KEY": []
+  }
+}
