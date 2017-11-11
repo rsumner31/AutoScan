@@ -26,8 +26,5 @@
     "NoShodan": [
       "Could not connect to Shodan, check if you have internet connectivity and a Shodan API Key."
     ]
-  },
-  "api": {
-    "SHODAN_API_KEY": []
   }
 }

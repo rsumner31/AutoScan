@@ -1,0 +1,7 @@
+{
+  "api_keys": {
+    "SHODAN_API_KEY": [],
+    "VIRUS_TOTAL_KEY": [],
+    "EC2_KEY": []
+  }
+}
