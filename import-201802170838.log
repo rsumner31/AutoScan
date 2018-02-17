@@ -1,0 +1,45 @@
+From 52a7ffe4a7ffc22046e9c133567780e6632242bf Mon Sep 17 00:00:00 2001
+From: Kenny Wang and Matt Royal <mroyal@pivotal.io>
+Date: Tue, 21 Jul 2015 10:43:26 -0700
+Subject: [PATCH] Remove limit of 5 violations listed per rule. (Closes #43)
+
+---
+ audits.js    | 4 +---
+ test/test.js | 8 ++++++++
+ 2 files changed, 9 insertions(+), 3 deletions(-)
+
+diff --git a/audits.js b/audits.js
+index 665804a..008deb2 100644
+--- a/audits.js
++++ b/audits.js
+@@ -53,9 +53,7 @@ webpage.open(opts.url, function (status) {
+                 var message = '';
+ 
+                 if (DOMElements !== undefined) {
+-                    var maxElements = Math.min(DOMElements.length, 5);
+-
+-                    for (var i = 0; i < maxElements; i++) {
++                    for (var i = 0; i < DOMElements.length; i++) {
+                         var el = DOMElements[i];
+                         message += '\n';
+                         // Get query selector not browser independent. catch any errors and
+diff --git a/test/test.js b/test/test.js
+index 4cca1d5..82c778f 100644
+--- a/test/test.js
++++ b/test/test.js
+@@ -65,3 +65,11 @@ test('test local input generates a verbose report', function (t) {
+     });
+ });
+ 
++test('test local input generates a report that includes all failures for a given violation', function (t) {
++    t.plan(2);
++    a11y('fixture.html', function (err, reports) {
++        var matchingReports = auditsWithHeader(reports, 'This element has an unsupported ARIA attribute');
++        t.assert(matchingReports.length === 1);
++        t.assert(matchingReports[0] && matchingReports[0].elements.match(/\n/g).length === 6);
++    });
++});
+--
+Working Copy 3.2.6
+
+
