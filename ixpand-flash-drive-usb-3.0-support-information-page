@@ -1,0 +1,644 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US" >
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <meta http-equiv="Content-Style-Type" content="text/css" />
+    <meta http-equiv="Content-Script-Type" content="text/javascript" />
+    <meta http-equiv="X-UA-Compatible" content="chrome=1" />
+    <title>iXpand Flash Drive USB 3.0 Support Information Page</title>
+    <link rel="search" type="application/opensearchdescription+xml" title="SanDisk® Global Customer Care - Welcome! Search" href="/ci/browserSearch/desc/https%3A%2F%2Fkb.sandisk.com%2Fapp%2Fanswers%2Flist%2Fkw%2F%7BsearchTerms%7D/SanDisk%C2%AE+Global+Customer+Care+-+Welcome%21+Search/SanDisk%C2%AE+Global+Customer+Care+-+Welcome%21+Search/%2Feuf%2Fassets%2Fimages%2Ficons%2Ffavicon_browserSearchPlugin.ico"/>
+    <link rel='canonical' href='https://kb.sandisk.com/app/answers/detail/a_id/18644/~/ixpand-flash-drive-usb-3.0-support-information-page'/>
+<style type='text/css'>
+ <!-- 
+.rn_ScreenReaderOnly{position:absolute; height:1px; left:-10000px; overflow:hidden; top:auto; width:1px;}
+.rn_Hidden{display:none;}
+ --></style>
+<base href='https://kb.sandisk.com/euf/generated/optimized/1518802711/themes/standard/'/>
+<link href='/euf/generated/optimized/1518802711/templates/standard.themes.standard.SITE.css' rel='stylesheet' type='text/css' media='all'/>
+<style type="text/css">
+<!--
+.rn_NavigationTab{display:inline-block;}
+.rn_NavigationTab a{cursor:pointer;float:left;font-size:1em;font-weight:bold;height:20px;_height:18px;margin-right:4px;padding:5px 20px;position:relative;}
+.rn_NavigationTab .rn_DropDown{padding-right:28px;}
+.rn_NavigationTab a em{display:block;font-size:xx-small;margin:4px 5px 0 0;position:absolute;right:0;top:0;}
+.rn_NavigationTab .rn_SubNavigation{display:block;float:none;position:absolute;z-index:1;width:150px;}
+.rn_NavigationTab .rn_SubNavigation.rn_Hidden, .rn_NavigationTab.rn_Hidden{display:none;}
+.rn_NavigationTab .rn_SubNavigation a{display:block;float:none;margin:0;padding:5px 0 0 10px;width:140px;}
+.rn_NavigationTab a{background:#EEE;background:-moz-linear-gradient(top, #EEE 20%, #D1D1D1 50%, #909090 100%);background:-ms-linear-gradient(top, #EEE 20%, #D1D1D1 50%, #909090 100%);background:-webkit-gradient(linear, 0% 0%, 0% 100%, color-stop(0.2, #EEE), color-stop(0.5, #D1D1D1), color-stop(1.0, #909090));background:-webkit-linear-gradient(top, #EEE 20%, #D1D1D1 50%, #909090 100%);filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#eeeeee', endColorstr='#909090',GradientType=0);border-top:1px solid #FFF;color:#202020;text-decoration:none;}
+.rn_NavigationTab a:hover, .rn_NavigationTab a:focus{background:#F8F8F8;background:-moz-linear-gradient(top, #FFF 20%, #E7E7E7 50%, #A9A9A9 100%);background:-ms-linear-gradient(top, #FFF 20%, #E7E7E7 50%, #A9A9A9 100%);background:-webkit-gradient(linear, 0% 0%, 0% 100%, color-stop(0.2, #FFF), color-stop(0.5, #E7E7E7), color-stop(1.0, #A9A9A9));background:-webkit-linear-gradient(top, #FFF 20%, #E7E7E7 50%, #A9A9A9 100%);filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffff', endColorstr='#A9A9A9',GradientType=0);color:#000;}
+.rn_NavigationTab a:focus{outline:thin dotted #FFF;}
+.rn_NavigationTab a.rn_SelectedTab, .rn_NavigationTab a.rn_SelectedTab em{background:#FFF;filter: progid:DXImageTransform.Microsoft.gradient(enabled = false);color:#000;}
+.rn_NavigationTab a em{font-size:8px;background:#EEE;background:-moz-linear-gradient(top, rgba(238, 238, 238, .1) 0%, rgba(209, 209, 209, .5) 100%);background:-ms-linear-gradient(top, rgba(238, 238, 238, .1) 0%, rgba(209, 209, 209, .5) 100%);background:-webkit-gradient(linear, 0% 0%, 0% 100%, color-stop(0.2, rgba(238, 238, 238, .1)), color-stop(1.0, rgba(209, 209, 209, .5)));background:-webkit-linear-gradient(top, rgba(238, 238, 238, .1) 0%, rgba(209, 209, 209, .5) 100%);filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffff', endColorstr='#aaaaaa');border:1px solid #E2E2E2;border-right-color:#CFCFCF;border-left-color:#CFCFCF;border-bottom-color:#C1C1C1;-moz-border-radius:3px;-webkit-border-radius:3px;border-radius:3px;color:#000;height:15px;padding-left: 4px;width:12px;}
+.rn_NavigationTab a:hover em, .rn_NavigationTab a:focus em{background:#FFF;background:-moz-linear-gradient(top, #FFF 0%, #D1D1D1 100%);background:-ms-linear-gradient(top, #FFF 0%, #D1D1D1 100%);background:-webkit-gradient(linear, 0% 0%, 0% 100%, color-stop(0.2, #FFF), color-stop(1.0, #FFF));background:-webkit-linear-gradient(top, #FFF 0%, #D1D1D1 100%);}
+.rn_NavigationTab .rn_SubNavigation{background:#FFF;border:1px solid #CCC;padding:10px 0 0;top:100px;}
+.rn_NavigationTab .rn_SubNavigation a{background:#FFF;filter: progid:DXImageTransform.Microsoft.gradient(enabled = false);border:none;color:#404040;height:auto !important;height:23px;margin-bottom:1px;min-height:23px;text-transform:none;}
+.rn_NavigationTab .rn_SubNavigation a:hover{background:#EEE;}
+.rn_NavigationTab .rn_SubNavigation a:focus{outline:thin dotted #777;}
+.rn_RightNowLogo a{background:url(/euf/core/static/PoweredByOracle.png) no-repeat scroll right 0 !important;display:block !important;height:29px !important;width:134px !important;}
+.rn_RightNowLogo a:focus, .rn_RightNowLogo a:hover{background-position:right -37px !important;}
+.rn_SimpleSearch{position:relative;}
+.rn_SimpleSearch .rn_SearchField{width:97%;}
+.rn_SimpleSearch .rn_SearchImage{border:none;padding:0;position:absolute;right:0.2em;top:0.46em;*right:0.28em;*top:0.6em;}
+.rn_SimpleSearch{margin:auto;max-width:400px;width:180px;}
+.rn_SimpleSearch form{background-color:#FFF;border:1px solid #B1B1B1;}
+.rn_SimpleSearch .rn_SearchField{border:0px none;color:#222;font-weight:bold;height:1.8em;max-width:200px;padding:4px 4px 0px;width:85%;}
+.rn_SiteFeedbackDialog{width:375px;}
+.rn_SiteFeedbackForm label{clear:left;display:block;}
+.rn_SiteFeedbackForm .rn_EmailField{clear:left;display:block;margin-bottom:1em;width:200px;}
+.rn_SiteFeedbackForm .rn_Textarea{clear:left;display:block;margin-bottom:1em;width:340px;}
+-->
+</style>
+<link href='/euf/generated/optimized/1518802711/pages/answers/detail.themes.standard.css' rel='stylesheet' type='text/css' media='all'/>
+
+	
+    <!--link rel="icon" href="images/favicon.png" type="image/png"/-->
+        
+	<link rel="stylesheet" type="text/css" href="https://www.sandisk.com/content/dam/sandisk-main/en_us/portal-assets/o/global.css" />
+	<link rel="stylesheet" type="text/css" href="https://www.sandisk.com/content/dam/sandisk-main/en_us/portal-assets/o/layout.css" />
+    <link type="text/css" rel="stylesheet" href="/euf/assets/themes/standard/upgrades-redesign.css"  /> 
+	<link rel="icon" href="https://www.sandisk.com/content/dam/sandisk-main/en_us/portal-assets/o/favicon.ico" type="image/x-icon" />
+	<link rel="shortcut icon" href="https://www.sandisk.com/content/dam/sandisk-main/en_us/portal-assets/o/favicon.ico" type="image/x-icon" />
+	<style type="text/css">
+          body {
+          padding: 0;
+          margin: 0;
+          width: 100%;
+          display: block;
+		  background: url(https://www.sandisk.com/content/dam/sandisk-main/en_us/portal-assets/o/hf-contact.jpg) no-repeat center top; /* Place the page specific background */
+		  }
+    </style>
+	
+</head>
+<body class="yui-skin-sam yui3-skin-sam">
+<!-- Google Tag Manager -->
+                <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-579QB8" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+                <script>
+                (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+                j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+                '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+                })(window,document,'script','dataLayer','GTM-579QB8');
+                </script>
+<!-- End Google Tag Manager -->
+<div id="rn_Container" > <!-- just the top  is affected -->
+    <!-- Add HTML/PHP view code here -->
+<!-- Header -->
+<!-- Start Header -->
+    <div id="headerWrap">
+     <div class="logo"><a href="http://www.sandisk.com/" title="Homepage"><img width="160" height="35" src="https://www.sandisk.com/content/dam/sandisk-main/en_us/portal-assets/logos/brand-logo-red.svg" alt="sandisklogo"/></a></div>
+<!--div class="logo"><a href="http://www.sandisk.com/" title="Homepage"><img width="160" height="35" src="https://aem-stage-publish.sandisk.com/content/dam/sandisk-main/en_us/portal-assets/logos/logo-white.svg " alt="sandisklogo"/></a></div -->
+<div class="toolbar"><a href="http://retail.sandisk.com/Sign-up_US.html" title="Sign Up">Sign Up</a> | <a href="http://www.sandisk.com/sandisk-support/find-a-retailer/" title="Where to Buy">Where
+to Buy</a> | <a href="http://shop.sandisk.com/" title="Shop SanDisk">Shop SanDisk</a> | <a href="http://www.sandisk.com/about-sandisk/contact-us/" title="Contact Us">Contact Us</a>&nbsp;|  </div> <form name="lang" class="dropdown">
+<!-- img src="http://www.sandisk.com/media/222677/globe.jpg" width="16" height="20" alt="Global Sites" align="absbottom" / -->&nbsp;
+<select name="menu" style="font-size:11px; height:19px;">
+<option value="http://kb.sandisk.com" selected>English (US)</option>
+<option value="http://kb-eu.sandisk.com">English (Europe)</option>
+<option value="http://kb-zh.sandisk.com">繁體中文</option>
+<option value="http://kb-cn.sandisk.com" >简体中文</option>
+<option value="http://kb-de.sandisk.com" >Deutsch</option>
+<option value="http://kb-es.sandisk.com">Español</option>
+<option value="http://kb-fr.sandisk.com">Français</option>
+<option value="http://kb-he.sandisk.com">עברית</option>
+<option value="http://kb-it.sandisk.com">Italiano</option>
+<option value="http://kb-jp.sandisk.com">日本語</option>
+<option value="http://kb-ko.sandisk.com">한국어</option>
+<option value="http://kb-nl.sandisk.com">Nederlands</option>
+<option value="http://kb-pt.sandisk.com">Português</option>
+<option value="http://kb-ru.sandisk.com">Русский</option>
+<option value="http://kb-tr.sandisk.com">Türkçe</option>
+</select>
+<input style="border: 1px outset rgb(102, 102, 102); background-color: rgb(192, 192, 192); color: rgb(0, 0, 0); font-size: 11px; font-weight: bold" type="button" 
+onclick="location=document.lang.menu.options[document.lang.menu.selectedIndex].value;" value="  > ">
+</form>  <div></div>
+        <!-- Start search Wrap -->
+     <div class="searchWrap" style="height:20px; float:right; width:2px;">
+	 
+	 
+	 <!--input name="" maxlength="32" value="Search" onkeypress="return EnterKeyGoesToSearch(event, '/search/?section=', this);" onfocus="if (this.value=='Search') { this.value=''; }" onblur="if (this.value=='') { this.value='Search'; }" type="text"/ --></div>
+      <!-- End search Wrap -->
+ <!-- Start menu Wrap -->
+      <div id="menuWrap">
+      <div id="menu">
+      <ul>
+<li><a href="https://www.sandisk.com/home.html">For Home</a> 
+<!--div class="subMenu" id="productsMenu">
+<div class="col1">
+<ul>
+<li class="category"><a href="http://www.sandisk.com/products/memory-cards/">Memory Cards</a></li>
+<li><a href="http://www.sandisk.com/products/memory-cards/sd/">SD Cards</a></li>
+<li><a href="http://www.sandisk.com/products/memory-cards/microsd/">microSD Cards</a></li>
+<li><a href="http://www.sandisk.com/products/memory-cards/compactflash/">CompactFlash Cards</a></li>
+<li><a href="http://www.sandisk.com/products/memory-cards/CFastPRO20/">CFast PRO 2.0</a></li>
+<li><a href="http://www.sandisk.com/products/memory-cards/readers/">Card Readers</a></li>
+<li class="category"><a href="http://www.sandisk.com/products/wireless/">Wireless Memory</a></li>
+<li><a href="http://www.sandisk.com/products/wireless/flash-drive/">SanDisk Connect Wireless Flash Drive</a></li>
+<li><a href="http://www.sandisk.com/products/wireless/media-drive/">SanDisk Connect Wireless Media Drive</a></li>
+<li class="category"><a href="http://www.sandisk.com/products/mobile-flash-drives/">Mobile Flash Drives</a></li>
+<li><a href="http://www.sandisk.com/products/mobile-flash-drives/ixpand/">iXpand Flash Drive</a></li>
+<li><a href="http://www.sandisk.com/products/mobile-flash-drives/dualdrive-type-c/">Dual USB Drive Type-C</a></li>
+<li><a href="http://www.sandisk.com/products/mobile-flash-drives/dualdrive30/">Ultra Dual USB Drive 3.0 </a></li>
+<li><a href="http://www.sandisk.com/products/mobile-flash-drives/dualdrive/">Ultra Dual USB Drive</a></li>
+<li class="category"><a href="http://www.sandisk.com/products/usb/">USB Storage</a></li>
+<li><a href="http://www.sandisk.com/products/usb/drives/">USB Flash Drives</a></li>
+<li class="category"><a href="http://www.sandisk.com/products/music-video-players/">Music &amp; Video Players</a></li>
+<li><a href="http://www.sandisk.com/products/music-video-players/clip-sport/">SanDisk Clip Sport</a></li>
+<li><a href="http://www.sandisk.com/products/music-video-players/fuze-plus/">Sansa Fuze+</a></li>
+<li><a href="http://www.sandisk.com/products/music-video-players/clip-zip/">Sansa Clip Zip</a></li>
+<li><a href="http://www.sandisk.com/products/music-video-players/clip-plus/">Sansa Clip+</a></li>
+<li class="category"><a href="http://www.sandisk.com/products/software/">Consumer Software</a></li>
+<li><a href="http://www.sandisk.com/products/software/memory-zone/">SanDisk Memory Zone</a></li>
+<li><a href="http://www.sandisk.com/products/software/secureaccess/">SanDisk SecureAccess</a></li>
+</ul>
+</div>
+<div class="col2">
+<ul>
+<li class="category"><a href="http://www.sandisk.com/products/ssd/">Solid State Drives (SSD)</a></li>
+<li><a href="http://www.sandisk.com/products/ssd/sata/">SATA SSDs</a></li>
+<li><a href="http://www.sandisk.com/enterprise/sas-ssd/">SAS SSDs</a></li>
+<li><a href="http://www.sandisk.com/enterprise/pcie_flash/">PCIe Flash</a></li>
+<li><a href="http://www.sandisk.com/enterprise/ulltradimm-ssd/">ULLtraDIMM SSDs</a></li>
+<li class="category"><a href="http://www.sandisk.com/products/embedded/">Embedded Storage</a></li>
+<li><a href="http://www.sandisk.com/products/embedded/inand/">iNAND (e.MMC)</a></li>
+<li><a href="http://www.sandisk.com/products/embedded/issd/">iSSD (SATA µSSD)</a></li>
+<li class="category"><a href="http://bigdataflash.sandisk.com/systems" target="_blank">Flash Systems</a></li>
+<li><a href="http://bigdataflash.sandisk.com/infiniflash" target="_blank">InfiniFlash System</a></li>
+<li><a href="http://bigdataflash.sandisk.com/ion-accelerator" target="_blank">SanDisk ION Accelerator</a></li>
+<li><a href="http://bigdataflash.sandisk.com/oem-integrated" target="_blank">OEM Intergrated</a></li>
+<li class="category"><a href="http://bigdataflash.sandisk.com/software" target="_blank">Software</a></li>
+<li><a href="http://bigdataflash.sandisk.com/flashsoft" target="_blank">FlashSoft Software</a></li>
+<li><a href="http://bigdataflash.sandisk.com/zetascale" target="_blank">ZetaScale Software</a></li>
+<li><a href="http://bigdataflash.sandisk.com/io-turbine" target="_blank">ioTurbine Virtual</a></li>
+<li><a href="http://bigdataflash.sandisk.com/iovdi" target="_blank">ioVDI</a></li>
+<li><a href="http://bigdataflash.sandisk.com/opensource" target="_blank">Open Source</a></li>
+</ul>
+</div>
+<div class="col3">
+<div class="promoBlock"><a href="http://www.sandisk.com/products/mobile/ixpand/" onclick="ga('send', 'event', 'Promos','Flyout','iXpand Flash Drive');"><img src="http://www.sandisk.com/Assets/Promos/EN/ixpand-flyout.jpg" src="http://www.sandisk.com/Assets/Promos/EN/ixpand-flyout.jpg" alt="iXpand Flash Drive" class="promoImg"/></a>
+<p class="promoCaption">SanDisk iXpand Flash Drive</p>
+</div>
+<div class="promoBlock"><a href="http://www.sandisk.com/products/ssd/sata/extreme-pro/" onclick="ga('send', 'event', 'Promos','Flyout','Extreme PRO SSD');"><img src="http://www.sandisk.com/Assets/Promos/EN/SD-ExtremePro-flyout.jpg" src="http://www.sandisk.com/Assets/Promos/EN/SD-ExtremePro-flyout.jpg" alt="SanDisk Extreme PRO SSD" class="promoImg"/></a>
+<p class="promoCaption">SanDisk Extreme PRO SSD</p>
+</div>
+</div>
+<div class="clear10">&nbsp;</div>
+<div class="subMenuBottom">&nbsp;</div>
+</div-->
+</li>
+<li><a href="https://www.sandisk.com/business.html">For Business</a> 
+<!--div class="subMenu" id="Consumermenu">
+<div class="col1">
+<ul>
+<li class="category"><a href="http://www.sandisk.com/consumer/products/">Consumer Products</a></li>
+<li><a href="http://www.sandisk.com/products/ssd/sata/">Solid State Drives (SSDs)</a></li>
+<li><a href="http://www.sandisk.com/products/wireless/">Wireless Memory </a></li>
+<li><a href="http://www.sandisk.com/products/memory-cards/">Memory Cards</a></li>
+<li><a href="http://www.sandisk.com/products/usb/">USB Storage</a></li>
+<li><a href="http://www.sandisk.com/products/music-video-players/">Music &amp; Video Players</a></li>
+<li><a href="http://www.sandisk.com/products/software/">Software &amp; Services</a></li>
+<li class="category"><a href="http://www.sandisk.com/consumer/segments/">Product Segments</a></li>
+<li><a href="http://www.sandisk.com/consumer/segments/extremepro/">SanDisk Extreme Pro</a></li>
+<li><a href="http://www.sandisk.com/consumer/segments/extreme/">SanDisk Extreme</a></li>
+<li><a href="http://www.sandisk.com/consumer/segments/ultra/">SanDisk Ultra</a></li>
+<li class="category"><a href="http://www.sandisk.com/about-sandisk/sandisk-extreme-team/">SanDisk Extreme Team</a></li>
+</ul>
+</div>
+<div class="col2">
+<ul>
+<li class="category"><a href="http://www.sandisk.com/consumer/uses/">Uses</a></li>
+<li><a href="http://www.sandisk.com/consumer/camera-and-camcorder-memory/">Camera &amp; Camcorder Memory</a></li>
+<li><a href="http://www.sandisk.com/consumer/mobile-storage/">Mobile Storage</a></li>
+<li><a href="http://www.sandisk.com/consumer/portable-storage/">Portable Personal Storage</a></li>
+<li><a href="http://www.sandisk.com/products/wireless-memory/">Wireless Storage</a></li>
+<li><a href="http://www.sandisk.com/products/ssd/sata/">High Performance Drives</a></li>
+<li><a href="http://www.sandisk.com/products/music-video-players/">Portable Multimedia</a></li>
+<li><a href="http://www.sandisk.com/products/memory-cards/readers/">Card Readers</a></li>
+<li><a href="http://www.sandisk.com/consumer/provideo/">Pro Video</a></li>
+</ul>
+</div>
+<div class="col3">
+<div class="promoBlock"><a href="http://www.sandisk.com/products/memory-cards/readers/ultra-minidrive/" onclick="ga('send', 'event', 'Promos','Flyout','minidrive');"><img src="http://www.sandisk.com/Assets/Promos/EN/SD-flyout-minidrive.jpg" src="http://www.sandisk.com/Assets/Promos/EN/SD-flyout-minidrive.jpg" alt="Sandisk Ultra miniDrive" class="promoImg"/></a>
+<p class="promoCaption">New Sandisk Ultra miniDrive</p>
+</div>
+<div class="promoBlock"><a href="http://www.sandisk.com/products/music-video-players/clip-sport/" onclick="ga('send', 'event', 'Promos','Flyout','Clip Sport');"><img src="http://www.sandisk.com/Assets/Promos/EN/clipsport-flyout.jpg" src="http://www.sandisk.com/Assets/Promos/EN/clipsport-flyout.jpg" alt="SanDisk Clip Sport" class="promoImg"/></a>
+<p class="promoCaption">New SanDisk Clip Sport MP3 Player</p>
+</div>
+</div>
+<div class="clear10">&nbsp;</div>
+<div class="subMenuBottom">&nbsp;</div>
+</div-->
+</li>
+<li><a href="https://www.sandisk.com/oem-design.html">OEM Design</a>
+<!-- div id="Businessmenu" class="subMenu">
+<div class="col1">
+<ul>
+<li class="category"><a href="http://www.sandisk.com/enterprise/">Products</a></li>
+<li><a href="http://www.sandisk.com/enterprise/sas-ssd/">SAS SSDs</a></li>
+<li><a href="http://www.sandisk.com/enterprise/sata-ssd/">SATA SSDs</a></li>
+<li><a href="http://www.sandisk.com/enterprise/pcie_flash/">PCIe Flash</a></li>
+<li><a href="http://www.sandisk.com/enterprise/ulltradimm-ssd/">ULLtraDIMM SSDs</a></li>
+<li class="category"><a href="http://www.sandisk.com/enterprise/industry-solutions/">Industry Solutions</a></li>
+<li><a href="http://www.sandisk.com/enterprise/industry-solutions/#financial">Financial Services</a></li>
+<li><a href="http://www.sandisk.com/enterprise/industry-solutions/#government">Government &amp; Education</a></li>
+<li><a href="http://www.sandisk.com/enterprise/industry-solutions/#healthcare">Healthcare</a></li>
+<li><a href="http://www.sandisk.com/enterprise/industry-solutions/#manufacturing">Manufacturing</a></li>
+<li><a href="http://www.sandisk.com/enterprise/industry-solutions/#media">Media &amp; Entertainment</a></li>
+<li class="category"><a href="http://premierpartner.sandisk.com" target="_blank">Business Channel Portal</a></li>
+<li class="category"><a href="http://bigdataflash.sandisk.com/" target="_blank">Systems and Software Solutions </a></li>
+</ul>
+</div>
+<div class="col2">
+<ul>
+<li class="category"><a href="http://www.sandisk.com/enterprise/customer-solutions/">Customer</a></li>
+<li><a href="http://www.sandisk.com/enterprise/customer-solutions/#cloud">Cloud Data Center Managers</a></li>
+<li><a href="http://www.sandisk.com/enterprise/customer-solutions/#enterprise">Enterprise Data Center Managers</a></li>
+<li><a href="http://www.sandisk.com/enterprise/customer-solutions/#business">Business Applications Owners</a></li>
+<li><a href="http://www.sandisk.com/enterprise/customer-solutions/#server">Server &amp; Storage Vendors</a></li>
+<li><a href="http://www.sandisk.com/enterprise/partners/">Partner Directory</a></li>
+<li class="category"><a href="http://www.sandisk.com/enterprise/business-solutions/">Business Solutions</a></li>
+<li><a href="http://www.sandisk.com/enterprise/business-solutions/#analytics">Analytics</a></li>
+<li><a href="http://www.sandisk.com/enterprise/business-solutions/#virtualization">Virtualization</a></li>
+<li><a href="http://www.sandisk.com/enterprise/business-solutions/#transaction">Transaction Processing</a></li>
+<li class="category"><a href="http://www.sandisk.com/enterprise/resource-library/">Resource Library</a></li>
+<li class="category"><a href="http://forums.sandisk.com/t5/SanDisk-Enterprise-Forums/ct-p/enterprise" target="_blank">Community</a></li>
+<li><a href="http://itblog.sandisk.com/" target="_blank">IT Blog</a></li>
+<li><a href="http://forums.sandisk.com/t5/SanDisk-Enterprise-Forums/ct-p/enterprise" target="_blank">Enterprise Forums</a></li>
+</ul>
+</div>
+<div class="col3">
+<div class="promoBlock"><a href="http://www.sandisk.com/enterprise/pcie_flash/fusion-iomemory-px600/" onclick="ga('send', 'event', 'Promos','Flyout','Fusion ioMemory - PX600');"><img src="http://www.sandisk.com/Assets/Promos/EN/SD-PX600-flyout.jpg" src="/Assets/Promos/EN/SD-PX600-flyout.jpg" alt="Fusion ioMemory - PX600" class="promoImg"/></a>
+<p class="promoCaption">Fusion ioMemory - PX600</p>
+</div>
+<div class="promoBlock"><a href="http://www.sandisk.com/enterprise/sas-ssd/optimus-max-ssd/" onclick="ga('send', 'event', 'Promos','Home - Flyout','Optimux MAX');"><img src="http://www.sandisk.com/Assets/Promos/EN/SD-flyout-Optimus.jpg" src="http://www.sandisk.com/Assets/Promos/EN/SD-flyout-Optimus.jpg" alt="Optimux MAX" class="promoImg"/></a>
+<p class="promoCaption">Optimux MAX</p>
+</div>
+</div>
+<div class="clear10"> </div>
+<div class="subMenuBottom"> </div>
+</div-->
+</li>
+<li><a href="https://www.sandisk.com/about.html">About SanDisk</a> 
+<!--div class="lastMenu" id="AboutSanDisk">
+<ul>
+<li class="lastMenuTop"><a href="http://www.sandisk.com/about-sandisk/corporate/">Company</a></li>
+<li><a href="http://www.sandisk.com/about-sandisk/corporate/management/">Leadership</a></li>
+<li><a href="http://www.sandisk.com/about-sandisk/corporate/ventures/">SanDisk Ventures</a></li>
+<li><a href="http://www.sandisk.com/about-sandisk/press-room/">Media Center</a></li>
+<li><a href="http://www.sandisk.com/about-sandisk/investor-relations/">Investor Relations</a></li>
+<li><a href="http://www.sandisk.com/about-sandisk/careers/">Careers</a></li>
+<li><a href="http://www.sandisk.com/about-sandisk/corporate-responsibility/">Corporate Responsibility</a></li>
+</ul>
+<div class="clear10">&nbsp;</div>
+<div class="lastMenuBottom">&nbsp;</div>
+</div-->
+</li>
+<li><a href="http://kb.sandisk.com/">Support</a>
+<!--div class="lastMenu">
+<ul>
+<li class="lastMenuTop"><a href="http://kb.sandisk.com">Retail Products</a></li>
+<li style="padding-bottom: 10px;"><a href="https://link.sandisk.com/commercialsupport">Commercial Products</a></li>
+</ul>
+<div class="clear10"></div>
+</div -->
+</li>
+</ul>
+      </div>
+    </div>
+        </div>
+    <!-- End menu Wrap -->
+    <!-- End Header -->
+    <div id="rn_SkipNav"><a href="#rn_MainContent">Skip Navigation</a></div>
+    <div id="rn_Header">
+    <noscript><h1>Scripting must be enabled to use this site.</h1></noscript>        
+    </div>
+	<div id="abouSD" style="margin-top:60px;">&nbsp;</div>
+	  <div id="Content-innerpage">
+        <h1 class="innerpage-header-title">SanDisk<span style="font-size:12px; vertical-align:super;">&reg;</span> Global Customer Care</h1>
+  <div class="breadcrumbs"><a href="/" title="Home">Home</a> | SanDisk Global Customer Care</div>
+	
+    	
+	<div class="left-box" style="width:980px; ">
+    <div id="rn_Body">
+		<div id="rn_MainColumn">
+		<div id="rn_contentLeft"> 
+				
+            <a name="rn_MainContent" id="rn_MainContent"></a>
+            <div id="rn_PageTitle2" class="rn_AnswerDetail">
+        	 <div id="rn_SearchControls" style="width:728px; height:110px">
+  <form method="post" action="" onsubmit="return false" >
+                <div class="rn_SearchInput" >
+					  <div style="padding-bottom:5px; padding-top:5px;">Find Answers</div>
+					  
+					                    <div id="rn_KeywordText_3" class="rn_KeywordText">
+    <label for="rn_KeywordText_3_Text"></label>
+    <input id="rn_KeywordText_3_Text" name="rn_KeywordText_3_Text" type="text" maxlength="255" value=""/>
+</div>
+					
+                </div> 
+				<div style="padding-top:10px;padding-left:535px;"> &nbsp; 
+                <div id="rn_SearchButton_4" class="rn_SearchButton">
+            <input type="submit" class="rn_SubmitButton" id="rn_SearchButton_4_SubmitButton" value="Search All Answers"/>
+        </div>
+</div>
+            </form>  <div style="clear:both; position:absolute; z-index:20;"><i> &nbsp;(ex. <a href="http://kb.sandisk.com/app/answers/list/kw/reset%20a%20sansa%20player" >how to reset a sansa player</a>)</i></div>	
+</div>    
+    <!-- div id="rn_SearchControls">
+            <h1 class="rn_ScreenReaderOnly">Search</h1>
+            <form method="post" action="" onsubmit="return false" >
+                <div class="rn_SearchInput">
+                    <rn:widget path="search/AdvancedSearchDialog" report_id="176"/>
+                    <rn:widget path="search/KeywordText2" label_text="Find the answer to your question" initial_focus="true" report_id="176"/>
+                </div>
+                <rn:widget path="search/SearchButton2" report_id="176" report_page_url="/app/answers/list"/>
+            </form>
+            <rn:widget path="search/DisplaySearchFilters" report_id="176"/>
+        </div -->
+    </div>
+<div id="rn_PageContent" class="rn_AnswerDetail">
+<div class="rn_padding">
+	<div id="rn_Summary">iXpand Flash Drive USB 3.0 Support Information Page</div>
+    	<div id="rn_AnswerInfo2">
+    	</div>
+    <div id="rn_AnswerText">
+        <p><span style="FONT-WEIGHT: bold"><img alt="Image" src="http://kb.sandisk.com/euf/assets/images/faqs/18644/18644_1.png" width="300" align="right" /></span><span style="FONT-WEIGHT: bold">Capacities:</span> 16GB, 32GB, 64GB, 128GB</p>
+<p style="FONT-WEIGHT: bold">How to videos<br />
+<a style="FONT-WEIGHT: normal; TEXT-INDENT: 0in" href="//kb.sandisk.com/app/answers/detail/a_id/19546" data-answer-id="19546">iXpand Flash Drive USB 3.0 How to Videos</a></p>
+<p><strong>Downloads<br />
+<a style="TEXT-DECORATION: underline; FONT-WEIGHT: normal" href="http://downloads.sandisk.com/downloads/um/ixpand-usb3-um.pdf">iXpand Flash Drive USB 3.0 User Manual</a></strong></p>
+<p><span style="FONT-WEIGHT: bold">Warranty</span><br />
+<span style="FONT-WEIGHT: normal">Limited warranty: USA-1 year</span></p>
+<p><span style="FONT-WEIGHT: normal"><span style="FONT-WEIGHT: bold">FAQs</span></span></p>
+<p><span style="FONT-WEIGHT: normal"><a style="TEXT-INDENT: 0in" href="//kb.sandisk.com/app/answers/detail/a_id/17174" data-answer-id="17174">iXpand Flash Drive Compatible Host Devices</a><br />
+<a style="TEXT-INDENT: 0in" href="//kb.sandisk.com/app/answers/detail/a_id/18903" data-answer-id="18903">iXpand Flash Drive USB 3.0 App Overview</a><br />
+<a style="TEXT-INDENT: 0in" href="//kb.sandisk.com/app/answers/detail/a_id/20098" data-answer-id="20098">iXpand Drive not detected </a><br />
+<a style="TEXT-INDENT: 0in" href="//kb.sandisk.com/app/answers/detail/a_id/18904" data-answer-id="18904">Taking Photos and videos using the iXpand Drive App</a><br />
+<a style="TEXT-INDENT: 0in" href="//kb.sandisk.com/app/answers/detail/a_id/18905" data-answer-id="18905">Backup and Restore files using the iXpand Drive App</a><br />
+<a style="TEXT-INDENT: 0in" href="//kb.sandisk.com/app/answers/detail/a_id/18906" data-answer-id="18906">Copy files from your iPhone or iPad to the iXpand USB 3.0</a><br />
+<a style="TEXT-INDENT: 0in" href="//kb.sandisk.com/app/answers/detail/a_id/19654" data-answer-id="19654">iXpand USB 3.0 Firmware Update Tool for PC</a></span></p>
+<p><a style="TEXT-DECORATION: underline; FONT-WEIGHT: normal" href="http://kb.sandisk.com/app/answers/list/kw/SDIX30">More iXpand USB 3.0 Answers &gt;&gt;</a></p>
+
+    </div>
+    <div id="rn_AnswerText">
+		</div>
+    <div id="rn_FileAttach">
+        
+    </div>
+	<br /><br />
+	<div id="rn_meta" class="rn_Details">
+<script src="http://yui.yahooapis.com/3.18.1/build/yui/yui-min.js"></script>
+<h4>Details&nbsp;&nbsp;<img src="/euf/assets/images/arrows_down.gif" id="rn_details" style="cursor:pointer;"/></h4>
+    <div id="rn_AnswerInfo" style="display:none;font-weight:bold;color:#808080;">
+		<table>
+          <tr><td>Answer ID</td> <td>&nbsp;&nbsp;18644</td></tr>
+          <tr><td>Published</td> <td>&nbsp;&nbsp;02/09/2016 04:36 PM</td></tr>
+          <tr><td>Updated</td> <td>&nbsp;&nbsp;08/22/2017 06:56 AM</td></tr>
+		</table>
+    </div>  <!-- id="rn_metalist" style="display:none;" -->
+	
+</div>
+    <div id="rn_AnswerFeedback_9" class="rn_AnswerFeedback">
+        <div id="rn_AnswerFeedback_9_AnswerFeedbackControl" class="rn_AnswerFeedbackControl">
+                    <div class="rn_Title">Was this answer helpful?</div>
+                            <div id="rn_AnswerFeedback_9_RatingButtons">
+    <button id="rn_AnswerFeedback_9_RatingYesButton" type="button">Yes</button>
+    <button id="rn_AnswerFeedback_9_RatingNoButton" type="button">No</button>
+</div>
+            </div>
+        <div id="rn_AnswerFeedback_9_AnswerFeedbackForm" class="rn_AnswerFeedbackForm rn_Hidden">
+        <div id="rn_AnswerFeedback_9_DialogDescription" class="rn_DialogSubtitle">Your rating has been submitted, please tell us how we can make this answer more useful.</div>
+        <div id="rn_AnswerFeedback_9_ErrorMessage"></div>
+        <form>
+                    <label for="rn_AnswerFeedback_9_EmailInput">Email<span class="rn_Required" > *</span><span class="rn_ScreenReaderOnly">Required</span></label>
+            <input id="rn_AnswerFeedback_9_EmailInput"  class="rn_EmailField" type="text" value=""/>
+                <label for="rn_AnswerFeedback_9_FeedbackTextarea">Your Feedback<span class="rn_Required" > *</span><span class="rn_ScreenReaderOnly">Required</span></label>
+        <textarea id="rn_AnswerFeedback_9_FeedbackTextarea" class="rn_Textarea" rows="4" cols="60"></textarea>
+        </form>
+    </div>
+    </div>
+	<br/>
+    <div id="rn_RelatedAnswers_10" class="rn_RelatedAnswers">
+    <h2>Related answers</h2>
+    <ul>
+            <li><a href="/app/answers/detail/a_id/20098/related/1/session/L2F2LzEvdGltZS8xNTE4OTAxODM0L3NpZC9mVUlNNnYyVjlmTzNfZmlkUG5zaHEyRmo3SXVnQkJHa0lIbTNVd3dQaV9QZHI2amVwSlExR3V5UDhsVmhPZnBkazVOUk9BUzdsMm51YzdUQ1E2TkxIJTdFbHFtc19hMUtuNVNtRXBpbFd6eWJnaTE5a0pvQVVWJTdFM3h3JTIxJTIx" target="_self"> iXpand USB 2.0 / iXpand USB 3.0 / Mini NOT detected</a></li>
+            <li><a href="/app/answers/detail/a_id/19654/related/1/session/L2F2LzEvdGltZS8xNTE4OTAxODM0L3NpZC9mVUlNNnYyVjlmTzNfZmlkUG5zaHEyRmo3SXVnQkJHa0lIbTNVd3dQaV9QZHI2amVwSlExR3V5UDhsVmhPZnBkazVOUk9BUzdsMm51YzdUQ1E2TkxIJTdFbHFtc19hMUtuNVNtRXBpbFd6eWJnaTE5a0pvQVVWJTdFM3h3JTIxJTIx" target="_self"> iXpand USB 3.0 Firmware Update Tool for Windows PC</a></li>
+            <li><a href="/app/answers/detail/a_id/19546/related/1/session/L2F2LzEvdGltZS8xNTE4OTAxODM0L3NpZC9mVUlNNnYyVjlmTzNfZmlkUG5zaHEyRmo3SXVnQkJHa0lIbTNVd3dQaV9QZHI2amVwSlExR3V5UDhsVmhPZnBkazVOUk9BUzdsMm51YzdUQ1E2TkxIJTdFbHFtc19hMUtuNVNtRXBpbFd6eWJnaTE5a0pvQVVWJTdFM3h3JTIxJTIx" target="_self"> iXpand USB 3.0 How to Videos</a></li>
+            <li><a href="/app/answers/detail/a_id/18906/related/1/session/L2F2LzEvdGltZS8xNTE4OTAxODM0L3NpZC9mVUlNNnYyVjlmTzNfZmlkUG5zaHEyRmo3SXVnQkJHa0lIbTNVd3dQaV9QZHI2amVwSlExR3V5UDhsVmhPZnBkazVOUk9BUzdsMm51YzdUQ1E2TkxIJTdFbHFtc19hMUtuNVNtRXBpbFd6eWJnaTE5a0pvQVVWJTdFM3h3JTIxJTIx" target="_self"> Copy files from your iPhone or iPad to the iXpand USB 3.0</a></li>
+            <li><a href="/app/answers/detail/a_id/16286/related/1/session/L2F2LzEvdGltZS8xNTE4OTAxODM0L3NpZC9mVUlNNnYyVjlmTzNfZmlkUG5zaHEyRmo3SXVnQkJHa0lIbTNVd3dQaV9QZHI2amVwSlExR3V5UDhsVmhPZnBkazVOUk9BUzdsMm51YzdUQ1E2TkxIJTdFbHFtc19hMUtuNVNtRXBpbFd6eWJnaTE5a0pvQVVWJTdFM3h3JTIxJTIx" target="_self"> SanDisk iXpand Flash Drive support information</a></li>
+        </ul>
+</div>
+                <div id="rn_DetailTools">
+                        <span id="rn_PrintPageLink_12" class="rn_PrintPageLink">
+    <a onclick="window.print(); return false;" href="javascript:void(0);" title="Print this page">
+                    <img src="images/Print.png" alt=""/>
+                <span>Print</span>
+    </a>
+</span>
+            <div id="rn_EmailAnswerLink_13" class="rn_EmailAnswerLink">
+    <a id="rn_EmailAnswerLink_13_Link" href="javascript:void(0);" title="Email a link to this answer">
+                    <img src="images/Email.png" alt=""/>
+                <span>Email this page</span>
+    </a>
+        <div id="rn_EmailAnswerLink_13_EmailAnswerLinkForm" class="rn_EmailAnswerLinkForm rn_Hidden">
+        <div id="rn_EmailAnswerLink_13_ErrorMessage"></div>
+        <form onsubmit="return false;">
+        <label id="rn_EmailAnswerLink_13_LabelRecipientEmail" for="rn_EmailAnswerLink_13_InputRecipientEmail">
+            Recipient Email<span class="rn_Required"> *</span><span class="rn_ScreenReaderOnly">Required</span>
+        </label>
+        <input id="rn_EmailAnswerLink_13_InputRecipientEmail" type="email"/>
+            <label id="rn_EmailAnswerLink_13_LabelSenderEmail" for="rn_EmailAnswerLink_13_InputSenderEmail">
+            Your Email<span class="rn_Required"> *</span><span class="rn_ScreenReaderOnly">Required</span>
+        </label>
+        <input id="rn_EmailAnswerLink_13_InputSenderEmail" type="email" value=""/>
+            
+        <label id="rn_EmailAnswerLink_13_LabelSenderName" for="rn_EmailAnswerLink_13_InputSenderName">
+            Your Name<span class="rn_Required"> *</span><span class="rn_ScreenReaderOnly">Required</span>
+        </label>
+        <input id="rn_EmailAnswerLink_13_InputSenderName" maxlength="70" type="text" value=""/>
+            </form>
+    </div>
+</div>
+                    </div>
+		
+    </div>	
+</div>
+       </div>
+        		                <div id="rn_SideBar">
+                <div class="rn_Padding"> 
+                    	
+							
+			<div class="rn_Module">
+				<img src="/euf/assets/images/products/kb-sb-supportoption.gif" border="0" />
+				<a href="//kb.sandisk.com/app/ask/"><img src="/euf/assets/images/products/kb-sb-aaq.gif" onmouseover="this.src='/euf/assets/images/products/kb-sb-aaq2.gif'" onmouseout="this.src='/euf/assets/images/products/kb-sb-aaq.gif'" border="0" /></a>
+				<a href="//kb.sandisk.com/app/chat/"><img src="/euf/assets/images/products/kb-sb-chatlive.gif" onmouseover="this.src='/euf/assets/images/products/kb-sb-chatlive2.gif'" onmouseout="this.src='/euf/assets/images/products/kb-sb-chatlive.gif'" border="0" /></a>
+				<a href="//kb.sandisk.com/app/account/prodreg/alist/"><img src="/euf/assets/images/products/kb-sb-register.gif" onmouseover="this.src='/euf/assets/images/products/kb-sb-register2.gif'" onmouseout="this.src='/euf/assets/images/products/kb-sb-register.gif'" border="0" /></a>
+				<a href="//kb.sandisk.com/app/rmaform"><img src="/euf/assets/images/products/kb-sb-replacement.gif" onmouseover="this.src='/euf/assets/images/products/kb-sb-replacement2.gif'" onmouseout="this.src='/euf/assets/images/products/kb-sb-replacement.gif'" border="0" /></a>
+				<a href="//kb.sandisk.com/app/rmalookup"><img src="/euf/assets/images/products/kb-sb-rmastatus.gif" onmouseover="this.src='/euf/assets/images/products/kb-sb-rmastatus2.gif'" onmouseout="this.src='/euf/assets/images/products/kb-sb-rmastatus.gif'" border="0" /></a>
+						
+			<a href="http://forums.sandisk.com/"><img src="/euf/assets/images/products/kb-sb-forum.gif" onmouseover="this.src='/euf/assets/images/products/kb-sb-forum2.gif'" onmouseout="this.src='/euf/assets/images/products/kb-sb-forum.gif'" border="0" /></a>
+						<a href="//kb.sandisk.com/app/quickassist"><img src="/euf/assets/images/products/kb-sb-quickassist.gif" onmouseover="this.src='/euf/assets/images/products/kb-sb-quickassist2.gif'" onmouseout="this.src='/euf/assets/images/products/kb-sb-quickassist.gif'" border="0" /></a>
+				
+			</div>
+			
+		
+			
+		
+					
+		
+		
+		
+		
+			
+		<div class="rn_Module">
+		<br />
+				<img src="/euf/assets/images/products/kb-sb-otherrelatedlinks.gif" border="0" /><br /><br />
+				<a href="http://pct1.sandisk.com/NewSearch.aspx" class="arrow2"><strong>Product Compatibility</strong></a><br /><br />
+				<a href="/app/answers/list/" class="arrow2"><strong>View all popular answers</strong></a><br /><br />
+				<a href="/app/answers/detail/a_id/5232/" class="arrow2"><strong>RMA process information</strong></a><br /><br />
+				<a href="https://support-en.sandisk.com" class="arrow2"><strong>Commercial Product Support</strong></a><br /><br />
+				<a href="/app/account/overview" class="arrow2"><strong>Login to 'My SanDisk'</strong>(Retail)</a><br /><br />
+				
+				
+				
+				
+				
+			</div>
+			
+					
+		
+		  
+		
+		
+					
+                  				 
+ 
+                    </div>
+                </div>            
+			         		 
+    </div>
+	    </div>
+</div>
+        </div>
+    <rn:meta controller_path="custom/template/bottom" />
+<!-- Add HTML/PHP view code here -->
+<div class="clearall" style="height:20px"></div>
+<div class="four-col-teaser">
+      <ul>
+<li>
+<div class="col1">
+<h3>Site Menu</h3>
+<ul>
+<li><a href="https://www.sandisk.com/content/sandisk-main/en_us/home" title="For Home">For Home</a></li>
+<li><a href="https://www.sandisk.com/business.html" title="For Business">For Business</a></li>
+<li><a href="https://www.sandisk.com/oem-design.html" title="OEM Design">OEM Design</a></li>
+<li><a href="https://www.sandisk.com/about/media-center.html" title="Media Center" >Media Center</a></li>
+<li><a href="https://www.sandisk.com/about/careers.html" title="Mobile Solutions for OEMs">Careers</a></li>
+</ul>
+</div>
+</li>
+<li>
+<div class="col2">
+<h3>Support</h3>
+<ul>
+<li><a href="https://link.sandisk.com/welcome.html" title="Knowledge Base">Business Support</a></li>
+<li><a href="http://kb.sandisk.com" title="Support Forums">Retail Support</a></li>
+<li><a href="http://kb.sandisk.com/app/account/prodreg/alist/" title="Register Product">Register Product</a></li>
+<li><a href="http://www.sandisk.com/about-sandisk/warranty-and-user-guides/" title="Warranty and User Guides">Warranty and User Guides</a></li>
+<li><a href="http://forums.sandisk.com" title="Forums">Forums</a></li>
+</ul>
+</div>
+</li>
+<li>
+<div class="col3">
+<h3>Quick Links</h3>
+<ul>
+<li><a href="http://itblog.sandisk.com/" title="IT Blog">IT Blog</a></li>
+<li><a href="https://premierpartner.sandisk.com/" title="Partner Portal">Partner Portal</a></li>
+<li><a href="http://stories.sandisk.com/" title="SanDisk Stories">SanDisk Stories</a></li>
+<li><a href="https://www.sandisk.com/home/extreme-team.html" title="Extreme Team">Extreme Team</a></li>
+</ul>
+</div>
+</li>
+<li>
+<div class="col4">
+<h3>Other Links</h3>
+<ul>
+<li><a href="http://investor.sandisk.com/phoenix.zhtml?c=86495&p=irol-irhomemain" title="Investor Relations">Investor Relations</a></li>
+<li><a href="https://www.sandisk.com/about/contact.html" title="Contact Us">Contact Us</a></li>
+<li>
+<link rel="stylesheet" href="https://s3.amazonaws.com/icomoon.io/37433/SanDiskSingleColor/style.css?-gujtjc">
+                        <a href="https://www.facebook.com/sandisk"><span class="icon-facebook2"></span></a>
+						<a href="https://instagram.com/sandisk"><span class="icon-instagram"></span></a>
+						<a href="https://twitter.com/sandisk"><span class="icon-twitter2"></span></a>
+						<a href="https://www.pinterest.com/sandisk"><span class="icon-pinterest2"></span></a>
+						<a href="https://www.linkedin.com/company/sandisk"><span class="icon-linkedin"></span></a>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+<div class="clearall"></div>
+ <!-- Start Footer Wrap -->
+ <div style="" id="footerWrap">
+ <div class="copyright">&copy; 2018 Western Digital Corporation or its affiliates. All
+rights reserved. <a href="http://www.sandisk.com/about-sandisk/terms-of-use/" title="Terms of Use">Terms of Use</a> | <a href="http://www.sandisk.com/about-sandisk/trademarks/" title="Trademarks">Trademarks</a> | <a href="http://www.sandisk.com/about-sandisk/privacy-policy/" title="Privacy Statement">Privacy</a> | <a href="http://www.sandisk.com/about-sandisk/cookie-policy/" title="Cookie Statement">Cookies</a> <br />
+ Western Digital Technologies, Inc. is the seller of record and licensee in the Americas of SanDisk® products.
+<div class="clearall">&nbsp;</div>
+</div>
+  </div>
+ <!-- End Footer Wrap -->
+</div>
+	
+	
+<script>var YUI_config={"comboBase":"//sandisk-en.widget.custhelp.com/ci/cache/yuiCombo/","lang":"en-US","fetchCSS":false,"modules":{"RightNowTreeView":"/euf/core/3.2.6/debug-js/modules/ui/treeview.js","RightNowTreeViewDialog":"/euf/core/3.2.6/debug-js/modules/ui/treeviewdialog.js","RightNowTreeViewDropdown":"/euf/core/3.2.6/debug-js/modules/ui/treeviewdropdown.js"},"injected":true,"groups":{"gallery-treeview":{"base":"/rnt/rnw/yui_3.13/gallery-treeview/","modules":{"gallery-treeview":{"path":"gallery-treeview-min.js"}}}}};</script>
+<script type="text/javascript" src="/euf/core/3.2.6/js/5.346/min/RightNow.js"></script>
+<script type="text/javascript" src="/euf/generated/optimized/1518802711/templates/standard.ea61097f0c66b256c4b8cc6041d27821.js"></script>
+<script type="text/javascript" src="/euf/generated/optimized/1518802711/pages/answers/detail.39cce0dfdd7cba2260c250cf3b515ab0.js"></script>
+<script>
+/* <![CDATA[ */
+RightNow.Env=(function(){var _props={module:'standard',coreAssets:'/euf/core/3.2.6/',yuiCore:'/rnt/rnw/yui_3.13/',profileData:{"isLoggedIn":false,"previouslySeenEmail":null}};return function(prop){return _props[prop];};})();RightNow.Interface.setMessagebase(function(){return {"WARNING_LBL":"Warning","INFORMATION_LBL":"Information","HELP_LBL":"Help","ERROR_REQUEST_ACTION_COMPLETED_MSG":"There was an error with the request and the action could not be completed.","OK_LBL":"OK","DIALOG_LBL":"dialog","DIALOG_PLEASE_READ_TEXT_DIALOG_MSG_MSG":"dialog, please read above text for dialog message","BEG_DIALOG_PLS_DISMISS_DIALOG_BEF_MSG":"Beginning of dialog, please dismiss dialog before continuing","END_DIALOG_PLS_DISMISS_DIALOG_BEF_MSG":"End of dialog, please dismiss dialog before continuing","ERR_SUBMITTING_FORM_DUE_INV_INPUT_LBL":"There was an error submitting the form due to invalid input","ERR_SUBMITTING_SEARCH_MSG":"There was a problem with your request.  Please change your search terms and try again.","CLOSE_CMD":"Close","BACK_LBL":"Back","CANCEL_CMD":"Cancel","PCT_S_LNKS_DEPTH_ANNOUNCED_MSG":"%s below using the links provided. Depth is announced as you navigate through the list.","SELECTION_PCT_S_ACTIVATE_LINK_JUMP_MSG":"The current selection is: '%s'. Activate this link to jump to the current selection.","RESPONSE_PLACEHOLDER_LBL":"<Response Placeholder>","NO_ANSWERS_FOUND_MSG":"No Answers found.","AGT_TEXT_LBL":"Agent text:","FIELD_REQUIRED_MARK_LBL":"*","REQUIRED_LBL":"Required","ADD_TO_CHAT_CMD":"Add to Chat","NEW_CONTENT_ADDED_BELOW_MSG":"New content added below.","TOP_CONTENT_CONTENT_ADDED_MSG":"Top of new content. New content has been added below.","ANSWERFEEDBACK_DIALOG_MISSING_REQD_MSG":"AnswerFeedback dialog is missing required element %s.","PCT_S_IS_REQUIRED_MSG":"%s is required","FIELD_IS_NOT_A_VALID_EMAIL_ADDRESS_MSG":"field is not a valid email address.","PCT_S_CONTAIN_THAN_MSG":"%s must not contain either '<' or '>'","PCT_S_MUST_NOT_CONTAIN_QUOTES_MSG":"%s must not contain quotes","PCT_S_MUST_NOT_CONTAIN_MSG":"%s must not contain '&'","PLEASE_ENTER_SINGLE_EMAIL_ADDRESS_MSG":"Please enter a single email address.","PCT_S_IS_INVALID_MSG":"%s is invalid","PCT_S_IS_TOO_LONG_MSG":"%s is too long","NOTIFY_REQUEST_FAILED_HDG":"Notification Request Submission Failed","NOTIFY_SUBMIT_FAILED_MSG":"An internal error prevented your request from being submitted successfully.","YOUR_ANSWER_NOTIFICATION_LBL":"Your answer notification","YOU_ARE_ALREADY_NOTIFIED_ANSWER_MSG":"You are already notified about this answer.","NOTIFY_REQUEST_SUCCESS_HDG":"Notification Request Submitted Successfully","NOTIFY_SUBMIT_SUCCESS_MSG":"Your request has been successfully submitted.","PCT_S_MUST_NOT_CONTAIN_SPACES_MSG":"%s must not contain spaces.","USERNAME_LBL":"Username","PCT_S_CONTAIN_DOUBLE_QUOTES_MSG":"%s must not contain double quotes.","PCT_S_CNT_THAN_MSG":"%s must not contain either '<' or '>'","SITEFEEDBACK_DIALOG_MISSING_REQD_MSG":"SiteFeedback dialog is missing required element %s.","SORRY_ERROR_SUBMISSION_LBL":"Sorry, there was an error with your submission"};});
+RightNow.Interface.setConfigbase(function(){return {"DE_VALID_EMAIL_PATTERN":"^(([-!#$%&'*+\/=?^~`{|}\\w\\x80-\\xFF]+(\\.[-!#$%&'*+\/=?^~`{|}\\w\\x80-\\xFF]+)*)|(\"[^\"]+\"))@[0-9A-Za-z]+(-[0-9A-Za-z]+)*(\\.[0-9A-Za-z]+(-[0-9A-Za-z]+)*)+$","CP_HOME_URL":"home","CP_FILE_UPLOAD_MAX_TIME":300,"OE_WEB_SERVER":"kb.sandisk.com"};});
+RightNow.Url.setParameterSegment(5);
+RightNow.Url.setSession('L2F2LzEvdGltZS8xNTE4OTAxODM0L3NpZC9mVUlNNnYyVjlmTzNfZmlkUG5zaHEyRmo3SXVnQkJHa0lIbTNVd3dQaV9QZHI2amVwSlExR3V5UDhsVmhPZnBkazVOUk9BUzdsMm51YzdUQ1E2TkxIJTdFbHFtc19hMUtuNVNtRXBpbFd6eWJnaTE5a0pvQVVWJTdFM3h3JTIxJTIx');
+RightNow.Event.setNoSessionCookies(true);
+RightNow.Interface.Constants = 
+{"API_VALIDATION_REGEX_EMAIL":"((([-_!#$%&'*+\/=?^~`{|}\\w]+([.][-_!#$%&'*+\/=?^~`{|}\\w]*)*)|(\"[^\"]+\"))@[0-9A-Za-z]+([\\-]+[0-9A-Za-z]+)*(\\.[0-9A-Za-z]+([\\-]+[0-9A-Za-z]+)*)+[;, ]*)+"};
+YUI().use('event-base',function(Y){Y.on('domready',function(){var n=RightNow.namespace,W=RightNow.Widgets,c='createWidgetInstance';
+W.setInitialWidgetCount(5);
+W[c]({"i":{"c":"KeywordText","n":"KeywordText","w":3},"a":{"report_id":"176","source_id":"","label_text":"","initial_focus":false},"j":{"initialValue":"","rnSearchType":"keyword","searchName":"keyword"}},'KeywordText_3','standard/search/KeywordText','RightNow.Widgets.KeywordText','3');
+W[c]({"i":{"c":"SearchButton","n":"SearchButton","w":4},"a":{"report_id":"176","source_id":"","label_button":"Search All Answers","report_page_url":"\/app\/answers\/list","icon_path":"","icon_alt_text":"Search","target":"_self","popup_window":false,"popup_window_width_percent":30,"popup_window_height_percent":42},"j":[]},'SearchButton_4','standard/search/SearchButton','RightNow.Widgets.SearchButton','4');
+W[c]({"i":{"c":"Details","n":"Details","w":8},"a":{"attribute":"Attribute Default Value","value":"default"},"j":[]},'Details_8','custom/Detail/Details','Custom.Widgets.Detail.Details','8');
+W[c]({"i":{"c":"AnswerFeedback","n":"AnswerFeedback","w":9},"a":{"submit_rating_ajax":"\/ci\/ajaxRequest\/submitAnswerRating","submit_feedback_ajax":"\/ci\/ajaxRequest\/submitAnswerFeedback","label_title":"Was this answer helpful?","label_accessible_option_description":"Rate answer %d of %d","label_dialog_title":"Provide Additional Information","label_dialog_description":"Your rating has been submitted, please tell us how we can make this answer more useful.","dialog_width":"375px","options_count":2,"options_descending":false,"label_yes_button":"Yes","label_no_button":"No","feedback_page_url":"","dialog_threshold":1,"label_feedback_submit":"Thanks for your feedback.","label_email_address":"Email","label_comment_box":"Your Feedback","label_send_button":"Submit","label_cancel_button":"Cancel","use_rank_labels":false},"j":{"f_tok":"ZlV6fnBUS1hrem92T35udXdBazB5QThQVDN0bWJpNV9SVW1HWFlfUmdPT3BBdTRPeGZyb1pxRHFHN0FEVHVzZ0Z3d19EVE5aajlNamQ5cHh5ZEd2Wk5nYnU2RU9VRW1xOVZMeVdsdHRJSG9FVGxuMmlLVU1mMnFQdUJmOVcwRHVYOW9IM3pSMlMxSGlPaFRqcl9RSzlyOElINzJWOE9LYm52","isProfile":false,"email":"","buttonView":true,"summary":"iXpand Flash Drive USB 3.0 Support Information Page","answerID":"18644"}},'AnswerFeedback_9','standard/feedback/AnswerFeedback','RightNow.Widgets.AnswerFeedback','9');
+W[c]({"i":{"c":"EmailAnswerLink","n":"EmailAnswerLink","w":13},"a":{"label_link":"Email this page","label_dialog_title":"Email Answer","label_tooltip":"Email a link to this answer","icon_path":"images\/Email.png","label_icon_alt":"","label_to":"Recipient Email","label_sender_name":"Your Name","label_sender_email":"Your Email","label_send_button":"Send Email","label_cancel_button":"Cancel","label_email_sent":"Email has been sent.","send_email_ajax":"\/ci\/ajax\/widget\/standard\/utils\/EmailAnswerLink\/emailAnswer"},"j":{"answerID":"18644","emailAnswerToken":"ZlVMOEh4cFMzcmJmOW1WdEZiYzY4bU1neTVydjhObGx_SXRkZE43NVdVc05rX1NqZnE5Y2tjZGMzd0h4UE5RdGZlQW5wa3JpblFLa3p_dGxuZmtVZmNfb1RDbUFOaVZjNlBxRzJ5aTBKWnF4Z35pV35lY3ROaU9NanlNUWhuTEhqd09ESk9XOF9ZWVlsNk13QWtpSHNFRHZMOUpYcENnWjZZ","isProfile":false,"senderEmail":""}},'EmailAnswerLink_13','standard/utils/EmailAnswerLink','RightNow.Widgets.EmailAnswerLink','13');
+})});
+/* ]]> */
+</script>
+<script type="text/javascript">
+var _rnq=_rnq||[];_rnq.push({"s":"PAIjrzFn","uh":"0ccff86f","uc":"kb.sandisk.com\/app\/answers\/detail\/a_id\/18644","b":"ca38961","i":"sandisk:sandisk_en","f":"rnw","p":"Customer Portal","v":"17.2.0.1-b346-sp5","th":"www.rnengage.com"});
+(function(e){var b,d,a=document.createElement("iframe"),c=document.getElementsByTagName("script");a.src="javascript:false";a.title="Action Capture";a.role="presentation";(a.frameElement||a).style.cssText="position:absolute;width:0;height:0;border:0";c=c[c.length-1];c.parentNode.insertBefore(a,c);try{b=a.contentWindow.document}catch(f){d=document.domain,a.src="javascript:var d=document.open();d.domain='"+d+"';void(0);",b=a.contentWindow.document}b.open()._l=function(){for(var a;e.length;)a=this.createElement("script"),
+d&&(this.domain=d),a.src=e.pop(),this.body.appendChild(a)};b.write('<head><title>Action Capture</title></head><body onload="document._l();">');b.close()})(["https://www.rnengage.com/api/e/ca38961/e.js","//www.rnengage.com/api/1/javascript/acs.js"]);
+</script></body>
+<script>
+  var TLSWarningYUI,
+  displayWarning = function(data) {
+  if( data && data.tls_version.split(' ')[1] < 1.1 ){
+    var devHeaderPanel = TLSWarningYUI.one("#rn_DevelopmentHeader");
+    if(devHeaderPanel)
+      devHeaderPanel.setStyle("top", "25px");
+      var warningNode = TLSWarningYUI.Node.create(
+        '<div id="oldtlswarning" style="background:rgba(c, 0, 0, 0) none repeat scroll 0 0;color:red;text-align:center;top:5px;font-weight:bold;">'
+        + 'Your browser lacks certain basic security requirements, For a more secured browsing experience please upgrade your browser to the latest version.'
+        + '</div>');
+      TLSWarningYUI.one("body *").insertBefore(warningNode);
+    }
+  };
+YUI().use('node-base', 'node-core', 'node-style', 'panel','event-base', function(Y){
+        TLSWarningYUI = Y;
+});
+function ssltester(){
+ var e = document.createElement("script");
+ e.src = "//www.howsmyssl.com/a/check?callback=displayWarning";
+ document.body.appendChild(e);
+}
+try {document.addEventListener("DOMContentLoaded", ssltester,false);}
+catch(e){window.attachEvent("onload", ssltester);}
+</script>
+</html>
